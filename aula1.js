@@ -4,7 +4,7 @@
      const stringDeNumeros = "34567";
 
      const citacao = 'Meu nome é ';
-     const meuNome = 'Carol';
+     const meuNome = 'luana';
      
      console.log(citacao + meuNome)
 
